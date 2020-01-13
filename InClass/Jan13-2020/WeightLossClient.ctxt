@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WeightLossClient
+comment1.params=a\ w\ g
+comment1.target=WeightLossClient(int,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

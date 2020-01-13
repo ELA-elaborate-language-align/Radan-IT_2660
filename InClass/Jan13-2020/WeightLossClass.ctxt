@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WeightLossClass
+comment1.params=a1\ w1\ a2\ w2\ a3\ w3
+comment1.target=WeightLossClass(int,\ double,\ int,\ double,\ int,\ double)
+comment2.params=
+comment2.target=void\ showAll()
+numComments=3
