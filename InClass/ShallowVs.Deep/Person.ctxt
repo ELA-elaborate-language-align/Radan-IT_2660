@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=a\ w
+comment1.target=Person(int,\ double)
+comment2.params=
+comment2.target=Person()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=a
+comment5.target=void\ setAge(int)
+comment6.params=w
+comment6.target=void\ setWeight(double)
+comment7.params=a\ w
+comment7.target=void\ set(int,\ double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=Person\ deepCopy()
+numComments=10
